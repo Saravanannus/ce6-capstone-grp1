@@ -31,7 +31,8 @@
 <h3>Architecture Diagram</h3>
 <p>The architecture diagram below depicts the project's structure and interactions between components:</p>
 
-![image](https://github.com/user-attachments/assets/12c02ab1-08eb-4c0a-8873-789894ac8fed)
+![image](https://github.com/user-attachments/assets/0d0bbf04-9a8c-40a9-bfb2-f2a212f50d2b)
+
 
 <p>The architecture consists of a Node.js application running in Docker containers on Amazon ECS, with a CI/CD pipeline configured through GitHub Actions.</p>
 
